@@ -2,7 +2,7 @@
 
 [![News Image 20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
 [![Rank](https://make.fun/badge/news-image-20261121/Noman7860000/makefun-news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121)
-[![Reward](https://make.fun/badge/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Noman7860000/makefun-news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A newspaper front page for Saturday 21 November 2026: seven illustrated panels,
 each telling one verified story from that day, readable from the image alone.
